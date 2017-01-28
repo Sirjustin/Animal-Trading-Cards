@@ -1,0 +1,48 @@
+/* add your CSS here */
+
+.fixed-width {
+	position: absolute;
+	width: 320px;
+}
+
+.label {
+font-weight: bold;
+}
+
+.fact {
+	font-style: italic;
+}
+
+p {
+padding: 10px 0px 10px 10px;
+
+}
+
+body {
+position: absolute;
+width: 320px;
+border: 5px solid;
+border width:5px;
+
+
+}
+
+img {
+	
+	width: 300px;
+	position:relative;
+}
+
+.subbody {
+
+width: 300px;
+position: relative;
+
+border: 1px solid;
+border width:5px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 10px 0px 10px 10px;
+}
